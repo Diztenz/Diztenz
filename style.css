@@ -22,6 +22,13 @@ p {
   }
 h1 {
     color: red;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
 }
 .siteheader {
     background-color: #f0f0f0;
