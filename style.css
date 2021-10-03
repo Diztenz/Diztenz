@@ -9,6 +9,7 @@ body {
     padding: 40px;
   }
 p {
+    text-align: center;
     color: black;
 }
 .highlight {
