@@ -12,6 +12,10 @@ p {
     text-align: center;
     color: black;
 }
+
+li {
+  text-align: center;
+}
 .highlight {
     color: orange;
 }
