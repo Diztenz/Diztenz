@@ -80,3 +80,6 @@ p {
     75%  {background-color:green; left:200px; top:200px; transform: rotate(-360deg);}
     100% {background-color:red; left:0px; top:0px;}
   }
+  #image {
+    background-image: "IMG_1012.jpg";
+  }
